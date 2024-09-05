@@ -6,5 +6,5 @@ document.getElementById('chatbot-btn').addEventListener('click', () => {
 
 document.getElementById('app-ui-btn').addEventListener('click', () => {
     // Redirect to the app's user interface page
-    window.location.href = 'https://preview.flutlab.io/blessy_s/pelixa/';
+    window.location.href = 'https://pelixa-a7886.web.app/';
 });
